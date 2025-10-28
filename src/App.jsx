@@ -1,7 +1,11 @@
+import Productos from "./pages/Productos"
+
 
 const App = () => {
   return (
-    <div>App</div>
+    <>
+  <Productos />
+    </>
   )
 }
 
