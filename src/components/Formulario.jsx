@@ -38,7 +38,7 @@ const Formulario = () => {
       htmlFor="" 
       className="block text-sm font-medium text-gray-700 mb-1">Precio</label>
     <input 
-      type="text" 
+      type="number" 
       id="precio"
       placeholder="Escriba el precio del producto. Ej: 1000"
       className="w-full px-3 py-4 border border-gray-300 rounded-md shadow-sm focus:outline-none focus:ring-2 
