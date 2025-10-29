@@ -5,8 +5,8 @@ const Productos = () => {
   return (
     <>
 
-    <TablaProducto />
     <Formulario />
+    <TablaProducto />
 
     </>
   )
